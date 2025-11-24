@@ -1,0 +1,5 @@
+{
+  "name": "MikroTik Config Generator Pro",
+  "description": "Advanced configuration generator for MikroTik WireGuard, DNAT, and Watchdog scripts.",
+  "requestFramePermissions": []
+}
